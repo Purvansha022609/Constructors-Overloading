@@ -1,5 +1,8 @@
 /* constructor overloading 
-Exp_13*/
+Name-Purvansha Gehlod
+PRN-22070123088
+Exp_13
+*/
 #include<iostream>
 using namespace std;
 class demo
